@@ -1,0 +1,20 @@
+# config (environment file)
+.env
+
+# virtual envrionment
+.venv
+
+# secrets
+secrets
+
+# pycache
+__pycache__
+
+# mypy cache
+.mypy_cache
+
+# documents
+docs
+
+# mac stuff
+.DS_STORE

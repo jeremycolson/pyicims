@@ -1,0 +1,14 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.maxTokenizationLineLength": 100000,
+
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "black",
+  "python.linting.mypyEnabled": true
+}
